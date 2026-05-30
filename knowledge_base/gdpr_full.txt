@@ -1,0 +1,533 @@
+#KAPITEL I
+Generelle bestemmelser
+***************************************
+##Artikel 1
+Genstand og formål
+1. I denne forordning fastsættes regler om beskyttelse af fysiske personer i forbindelse med behandling af personoplys
+ninger og regler om fri udveksling af personoplysninger.
+2. Denne forordning beskytter fysiske personers grundlæggende rettigheder og frihedsrettigheder, navnlig deres ret til
+beskyttelse af personoplysninger.
+3. Den frie udveksling af personoplysninger i Unionen må hverken indskrænkes eller forbydes af grunde, der vedrører
+beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger.
+
+##Artikel 2
+Materielt anvendelsesområde
+1. Denne forordning finder anvendelse på behandling af personoplysninger, der helt eller delvis foretages ved hjælp af
+automatisk databehandling, og på anden ikke automatisk behandling af personoplysninger, der er eller vil blive indeholdt
+i et register.
+2. Denne forordning gælder ikke for behandling af personoplysninger:
+a) under udøvelse af aktiviteter, der falder uden for EU-retten
+b) som foretages af medlemsstaterne, når de udfører aktiviteter, der falder inden for rammerne af afsnit V, kapitel 2, i
+TEU
+c) som foretages af en fysisk person som led i rent personlige eller familiemæssige aktiviteter
+d) som foretages af kompetente myndigheder med henblik på at forebygge, efterforske, afsløre eller retsforfølge strafbare
+handlinger eller fuldbyrde strafferetlige sanktioner, herunder beskytte mod og forebygge trusler mod den offentlige
+sikkerhed.
+3. Forordning (EF) nr. 45/2001 finder anvendelse på behandling af personoplysninger, som Unionens institutioner,
+organer, kontorer og agenturer foretager. Forordning (EF) nr. 45/2001 og andre EU-retsakter, der finder anvendelse på
+sådan behandling af personoplysninger, tilpasses til principperne og bestemmelserne i nærværende forordning i
+overensstemmelse med artikel 98.
+4. Denne forordning berører ikke anvendelsen af direktiv 2000/31/EF, navnlig reglerne om formidleransvar for
+tjenesteydere, der er fastsat i artikel 12-15 i nævnte direktiv.
+
+##Artikel 3
+Territorialt anvendelsesområde
+1. Denne forordning finder anvendelse på behandling af personoplysninger, som foretages som led i aktiviteter, der
+udføres for en dataansvarlig eller en databehandler, som er etableret i Unionen, uanset om behandlingen finder sted i
+Unionen eller ej.
+4.5.2016L 119/32 Den Europæiske Unions TidendeDA
+2. Denne forordning finder anvendelse på behandling af personoplysninger om registrerede, der er i Unionen, og som
+foretages af en dataansvarlig eller databehandler, der ikke er etableret i Unionen, hvis behandlingsaktiviteterne vedrører:
+a) udbud af varer eller tjenester til sådanne registrerede i Unionen, uanset om betaling fra den registrerede er påkrævet,
+eller
+b) overvågning af sådanne registreredes adfærd, for så vidt deres adfærd finder sted i Unionen.
+3. Denne forordning anvendes på behandling af personoplysninger, som foretages af en dataansvarlig, der ikke er
+etableret i Unionen, men et sted, hvor medlemsstaternes nationale ret gælder i medfør af folkeretten.
+
+##Artikel 4
+Definitioner
+I denne forordning forstås ved:
+1) »personoplysninger«: enhver form for information om en identificeret eller identificerbar fysisk person (»den
+registrerede«); ved identificerbar fysisk person forstås en fysisk person, der direkte eller indirekte kan identificeres,
+navnlig ved en identifikator som f.eks. et navn, et identifikationsnummer, lokaliseringsdata, en onlineidentifikator
+eller et eller flere elementer, der er særlige for denne fysiske persons fysiske, fysiologiske, genetiske, psykiske,
+økonomiske, kulturelle eller sociale identitet
+2) »behandling«: enhver aktivitet eller række af aktiviteter — med eller uden brug af automatisk behandling — som
+personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks. indsamling, registrering,
+organisering, systematisering, opbevaring, tilpasning eller ændring, genfinding, søgning, brug, videregivelse ved
+transmission, formidling eller enhver anden form for overladelse, sammenstilling eller samkøring, begrænsning,
+sletning eller tilintetgørelse
+3) »begrænsning af behandling«: mærkning af opbevarede personoplysninger med den hensigt at begrænse fremtidig
+behandling af disse oplysninger
+4) »profilering«: enhver form for automatisk behandling af personoplysninger, der består i at anvende personoplysnin
+ger til at evaluere bestemte personlige forhold vedrørende en fysisk person, navnlig for at analysere eller forudsige
+forhold vedrørende den fysiske persons arbejdsindsats, økonomiske situation, helbred, personlige præferencer,
+interesser, pålidelighed, adfærd, geografisk position eller bevægelser
+5) »pseudonymisering«: behandling af personoplysninger på en sådan måde, at personoplysningerne ikke længere kan
+henføres til en bestemt registreret uden brug af supplerende oplysninger, forudsat at sådanne supplerende
+oplysninger opbevares separat og er underlagt tekniske og organisatoriske foranstaltninger for at sikre, at
+personoplysningerne ikke henføres til en identificeret eller identificerbar fysisk person
+6) »register«: enhver struktureret samling af personoplysninger, der er tilgængelig efter bestemte kriterier, hvad enten
+denne samling er placeret centralt eller decentralt eller er fordelt på funktionsbestemt eller geografisk grundlag
+7) »dataansvarlig«: en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, der alene
+eller sammen med andre afgør, til hvilke formål og med hvilke hjælpemidler der må foretages behandling af person
+oplysninger; hvis formålene og hjælpemidlerne til en sådan behandling er fastlagt i EU-retten eller medlemsstaternes
+nationale ret, kan den dataansvarlige eller de specifikke kriterier for udpegelse af denne fastsættes i EU-retten eller
+medlemsstaternes nationale ret
+8) »databehandler«: en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, der
+behandler personoplysninger på den dataansvarliges vegne
+9) »modtager«: en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, hvortil per
+sonoplysninger videregives, uanset om det er en tredjemand eller ej. Offentlige myndigheder, som vil kunne få
+4.5.2016 L 119/33Den Europæiske Unions TidendeDA
+meddelt personoplysninger som led i en isoleret forespørgsel i henhold til EU-retten eller medlemsstaternes
+nationale ret, anses dog ikke for modtagere; de offentlige myndigheders behandling af disse oplysninger skal
+overholde de gældende databeskyttelsesregler afhængigt af formålet med behandlingen
+10) »tredjemand«: en anden fysisk eller juridisk person, offentlig myndighed eller institution eller ethvert andet organ
+end den registrerede, den dataansvarlige, databehandleren og de personer under den dataansvarliges eller
+databehandlerens direkte myndighed, der er beføjet til at behandle personoplysninger
+11) »samtykke« fra den registrerede: enhver frivillig, specifik, informeret og utvetydig viljestilkendegivelse fra den
+registrerede, hvorved den registrerede ved erklæring eller klar bekræftelse indvilliger i, at personoplysninger, der
+vedrører den pågældende, gøres til genstand for behandling
+12) »brud på persondatasikkerheden«: et brud på sikkerheden, der fører til hændelig eller ulovlig tilintetgørelse, tab,
+ændring, uautoriseret videregivelse af eller adgang til personoplysninger, der er transmitteret, opbevaret eller på
+anden måde behandlet
+13) »genetiske data«: personoplysninger vedrørende en fysisk persons arvede eller erhvervede genetiske karakteristika,
+som giver entydig information om den fysiske persons fysiologi eller helbred, og som navnlig foreligger efter en
+analyse af en biologisk prøve fra den pågældende fysiske person
+14) »biometriske data«: personoplysninger, der som følge af specifik teknisk behandling vedrørende en fysisk persons
+fysiske, fysiologiske eller adfærdsmæssige karakteristika muliggør eller bekræfter en entydig identifikation af
+vedkommende, f.eks. ansigtsbillede eller fingeraftryksoplysninger
+15) »helbredsoplysninger«: personoplysninger, der vedrører en fysisk persons fysiske eller mentale helbred, herunder
+levering af sundhedsydelser, og som giver information om vedkommendes helbredstilstand
+16) »hovedvirksomhed«:
+a) for så vidt angår en dataansvarlig som er etableret i mere end én medlemsstat, stedet for dennes centrale
+administration i Unionen, medmindre beslutninger vedrørende formål og hjælpemidler i forbindelse med
+behandling af personoplysninger træffes i en anden af den dataansvarliges etableringer i Unionen, og sidstnævnte
+etablering har beføjelse til få sådanne beslutninger gennemført; i så fald anses den etablering, der har truffet
+sådanne beslutninger, for hovedvirksomheden
+b) for så vidt angår en databehandler som er etableret i mere end én medlemsstat, stedet for dennes centrale
+administration i Unionen, eller, hvis denne ikke har en central administration i Unionen, den etablering i
+Unionen, hvor databehandlerens hovedbehandlingsaktiviteter foretages i databehandlerens egenskab af at være
+databehandler, i det omfang databehandleren er underlagt specifikke forpligtelser i henhold til denne forordning
+17) »repræsentant«: en fysisk eller juridisk person, der er etableret i Unionen, som skriftligt er udpeget af den
+dataansvarlige eller databehandleren i henhold til artikel 27, og som repræsenterer den dataansvarlige eller
+databehandleren hvad angår deres respektive forpligtelser i medfør af denne forordning
+18) »foretagende«: en fysisk eller juridisk person, som udøver økonomisk aktivitet, uanset dens retlige status, herunder
+partnerskaber eller sammenslutninger, der regelmæssigt udøver økonomisk aktivitet
+19) »koncern«: en virksomhed, der udøver kontrol, og de af denne kontrollerede virksomheder
+20) »bindende virksomhedsregler«: regler om beskyttelse af personoplysninger, som en dataansvarlig eller databehandler,
+der er etableret på en medlemsstats område, overholder i forbindelse med overførsel eller en række overførsler af
+personoplysninger til en dataansvarlig eller databehandler i et eller flere tredjelande inden for en koncern eller
+gruppe af foretagender, der udøver en fælles økonomisk aktivitet
+21) »tilsynsmyndighed«: en uafhængig offentlig myndighed, der er etableret i en medlemsstat i henhold til artikel 51
+4.5.2016L 119/34 Den Europæiske Unions TidendeDA
+22) »berørt tilsynsmyndighed«: en tilsynsmyndighed, der er berørt af en behandling af personoplysninger, fordi:
+a) den dataansvarlige eller databehandleren er etableret på denne tilsynsmyndigheds medlemsstats område
+b) de registrerede, der har bopæl i denne tilsynsmyndigheds medlemsstat, i væsentlig grad er påvirket af eller
+sandsynligvis i væsentlig grad vil kunne blive påvirket af behandlingen, eller
+c) en klage er blevet indgivet til denne tilsynsmyndighed
+23) »grænseoverskridende behandling«:
+a) behandling af personoplysninger, der finder sted som led i aktiviteter, som udføres for en dataansvarligs eller en
+databehandlers virksomheder i mere end én medlemsstat i Unionen, hvor den dataansvarlige eller
+databehandleren er etableret i mere end én medlemsstat, eller
+b) behandling af personoplysninger, der finder sted som led i aktiviteter, som udføres for en dataansvarligs eller en
+databehandlers eneste etablering i Unionen, men som i væsentlig grad påvirker eller sandsynligvis i væsentlig
+grad vil kunne påvirke registrerede i mere end én medlemsstat
+24) »relevant og begrundet indsigelse«: en indsigelse mod et udkast til afgørelse om, hvorvidt der foreligger en
+overtrædelse af denne forordning, eller hvorvidt en planlagt foranstaltning i forbindelse med den dataansvarlige eller
+databehandleren overholder denne forordning, og som klart påviser betydningen af de risici, som udkastet til
+afgørelse udgør for registreredes grundlæggende rettigheder og frihedsrettigheder og, hvis det er relevant, for den
+frie udveksling af personoplysninger i Unionen
+25) »informationssamfundstjeneste«: en tjeneste som defineret i artikel 1, stk. 1, litra b), i Europa-Parlamentets og
+Rådets direktiv (EU) 2015/1535 (1)
+26) »international organisation«: en folkeretlig organisation og organer, der er underordnet den, samt ethvert andet
+organ, der er oprettet ved eller med hjemmel i en aftale mellem to eller flere lande.
+#KAPITEL II
+Principper
+
+##Artikel 5
+Principper for behandling af personoplysninger
+1. Personoplysninger skal:
+a) behandles lovligt, rimeligt og på en gennemsigtig måde i forhold til den registrerede (»lovlighed, rimelighed og
+gennemsigtighed«)
+b) indsamles til udtrykkeligt angivne og legitime formål og må ikke viderebehandles på en måde, der er uforenelig med
+disse formål; viderebehandling til arkivformål i samfundets interesse, til videnskabelige eller historiske
+forskningsformål eller til statistiske formål i overensstemmelse med artikel 89, stk. 1, skal ikke anses for at være
+uforenelig med de oprindelige formål (»formålsbegrænsning«)
+c) være tilstrækkelige, relevante og begrænset til, hvad der er nødvendigt i forhold til de formål, hvortil de behandles
+(»dataminimering«)
+d) være korrekte og om nødvendigt ajourførte; der skal tages ethvert rimeligt skridt for at sikre, at personoplysninger,
+der er urigtige i forhold til de formål, hvortil de behandles, straks slettes eller berigtiges (»rigtighed«)
+4.5.2016 L 119/35Den Europæiske Unions TidendeDA
+(1) Europa-Parlamentets og Rådets direktiv (EU) 2015/1535 af 9. september 2015 om en informationsprocedure med hensyn til tekniske
+forskrifter samt forskrifter for informationssamfundets tjenester (EUT L 241 af 17.9.2015, s. 1).
+e) opbevares på en sådan måde, at det ikke er muligt at identificere de registrerede i et længere tidsrum end det, der er
+nødvendigt til de formål, hvortil de pågældende personoplysninger behandles; personoplysninger kan opbevares i
+længere tidsrum, hvis personoplysningerne alene behandles til arkivformål i samfundets interesse, til videnskabelige
+eller historiske forskningsformål eller til statistiske formål i overensstemmelse med artikel 89, stk. 1, under
+forudsætning af, at der implementeres passende tekniske og organisatoriske foranstaltninger, som denne forordning
+kræver for at sikre den registreredes rettigheder og frihedsrettigheder (»opbevaringsbegrænsning«)
+f) behandles på en måde, der sikrer tilstrækkelig sikkerhed for de pågældende personoplysninger, herunder beskyttelse
+mod uautoriseret eller ulovlig behandling og mod hændeligt tab, tilintetgørelse eller beskadigelse, under anvendelse af
+passende tekniske eller organisatoriske foranstaltninger (»integritet og fortrolighed«).
+2. Den dataansvarlige er ansvarlig for og skal kunne påvise, at stk. 1 overholdes (»ansvarlighed«).
+
+
+##Artikel 6
+Lovlig behandling
+1. Behandling er kun lovlig, hvis og i det omfang mindst ét af følgende forhold gør sig gældende:
+a) Den registrerede har givet samtykke til behandling af sine personoplysninger til et eller flere specifikke formål.
+b) Behandling er nødvendig af hensyn til opfyldelse af en kontrakt, som den registrerede er part i, eller af hensyn til
+gennemførelse af foranstaltninger, der træffes på den registreredes anmodning forud for indgåelse af en kontrakt.
+c) Behandling er nødvendig for at overholde en retlig forpligtelse, som påhviler den dataansvarlige.
+d) Behandling er nødvendig for at beskytte den registreredes eller en anden fysisk persons vitale interesser.
+e) Behandling er nødvendig af hensyn til udførelse af en opgave i samfundets interesse eller som henhører under
+offentlig myndighedsudøvelse, som den dataansvarlige har fået pålagt.
+f) Behandling er nødvendig for, at den dataansvarlige eller en tredjemand kan forfølge en legitim interesse, medmindre
+den registreredes interesser eller grundlæggende rettigheder og frihedsrettigheder, der kræver beskyttelse af personop
+lysninger, går forud herfor, navnlig hvis den registrerede er et barn.
+Første afsnit, litra f), gælder ikke for behandling, som offentlige myndigheder foretager som led i udførelsen af deres
+opgaver.
+2. Medlemsstaterne kan opretholde eller indføre mere specifikke bestemmelser for at tilpasse anvendelsen af denne
+forordnings bestemmelser om behandling med henblik på overholdelse af stk. 1, litra c) og e), ved at fastsætte mere
+præcist specifikke krav til behandling og andre foranstaltninger for at sikre lovlig og rimelig behandling, herunder for
+andre specifikke databehandlingssituationer som omhandlet i kapitel IX.
+3. Grundlaget for behandling i henhold til stk. 1, litra c) og e), skal fremgå af:
+a) EU-retten, eller
+b) medlemsstaternes nationale ret, som den dataansvarlige er underlagt.
+Formålet med behandlingen skal være fastlagt i dette retsgrundlag eller for så vidt angår den behandling, der er
+omhandlet i stk. 1, litra e), være nødvendig for udførelsen af en opgave i samfundets interesse eller som henhører under
+offentlig myndighedsudøvelse, som den dataansvarlige har fået pålagt. Dette retsgrundlag kan indeholde specifikke
+bestemmelser med henblik på at tilpasse anvendelsen af bestemmelserne i denne forordning, bl.a. de generelle betingelser
+for lovlighed af den dataansvarliges behandling, hvilke typer oplysninger der skal behandles, berørte registrerede, hvilke
+enheder personoplysninger må videregives til, og formålet hermed, formålsbegrænsninger, opbevaringsperioder og
+4.5.2016L 119/36 Den Europæiske Unions TidendeDA
+behandlingsaktiviteter samt behandlingsprocedurer, herunder foranstaltninger til sikring af lovlig og rimelig behandling
+såsom i andre specifikke databehandlingssituationer som omhandlet i kapitel IX. EU-retten eller medlemsstaternes
+nationale ret skal opfylde et formål i samfundets interesse og stå i rimeligt forhold til det legitime mål, der forfølges.
+4. Når behandling til et andet formål end det, som personoplysningerne er indsamlet til, ikke er baseret på den
+registreredes samtykke eller EU-retten eller medlemsstaternes nationale ret, som udgør en nødvendig og forholdsmæssig
+foranstaltning i et demokratisk samfund af hensyn til de mål, der er omhandlet i artikel 23, stk. 1, tager den
+dataansvarlige, for at afgøre, om behandling til et andet formål er forenelig med det formål, som personoplysningerne
+oprindelig blev indsamlet til, bl.a. hensyn til følgende:
+a) enhver forbindelse mellem det formål, som personoplysningerne er indsamlet til, og formålet med den påtænkte
+viderebehandling
+b) den sammenhæng, hvori personoplysningerne er blevet indsamlet, navnlig med hensyn til forholdet mellem den
+registrerede og den dataansvarlige
+c) personoplysningernes art, navnlig om særlige kategorier af personoplysninger behandles, jf. artikel 9, eller om person
+oplysninger vedrørende straffedomme og lovovertrædelser behandles, jf. artikel 10
+d) den påtænkte viderebehandlings mulige konsekvenser for de registrerede
+e) tilstedeværelse af fornødne garantier, som kan omfatte kryptering eller pseudonymisering.
+
+##Artikel 7
+Betingelser for samtykke
+1. Hvis behandling er baseret på samtykke, skal den dataansvarlige kunne påvise, at den registrerede har givet
+samtykke til behandling af sine personoplysninger.
+2. Hvis den registreredes samtykke gives i en skriftlig erklæring, der også vedrører andre forhold, skal en anmodning
+om samtykke forelægges på en måde, som klart kan skelnes fra de andre forhold, i en letforståelig og lettilgængelig form
+og i et klart og enkelt sprog. Enhver del af en sådan erklæring, som udgør en overtrædelse af denne forordning, er ikke
+bindende.
+3. Den registrerede har til enhver tid ret til at trække sit samtykke tilbage. Tilbagetrækning af samtykke berører ikke
+lovligheden af den behandling, der er baseret på samtykke inden tilbagetrækningen. Inden der gives samtykke, skal den
+registrerede oplyses om, at samtykket kan trækkes tilbage. Det skal være lige så let at trække sit samtykke tilbage som at
+give det.
+4. Ved vurdering af, om samtykke er givet frit, tages der størst muligt hensyn til, bl.a. om opfyldelse af en kontrakt,
+herunder om en tjenesteydelse, er gjort betinget af samtykke til behandling af personoplysninger, som ikke er nødvendig
+for opfyldelse af denne kontrakt.
+
+##Artikel 8
+Betingelser for et barns samtykke i forbindelse med informationssamfundstjenester
+1. Hvis artikel 6, stk. 1, litra a), finder anvendelse i forbindelse med udbud af informationssamfundstjenester direkte
+til børn, er behandling af personoplysninger om et barn lovlig, hvis barnet er mindst 16 år. Er barnet under 16 år, er
+sådan behandling kun lovlig, hvis og i det omfang samtykke gives eller godkendes af indehaveren af forældremyn
+digheden over barnet.
+Medlemsstaterne kan ved lov fastsætte en lavere aldersgrænse til disse formål, forudsat at en sådan aldersgrænse ikke er
+under 13 år.
+4.5.2016 L 119/37Den Europæiske Unions TidendeDA
+2. Under hensyntagen til den tilgængelige teknologi skal den dataansvarlige gøre sig rimelige bestræbelser på i
+sådanne tilfælde at kontrollere, at indehaveren af forældremyndigheden over barnet har givet eller godkendt samtykket.
+3. Stk. 1 berører ikke medlemsstaternes generelle aftaleret, som f.eks. bestemmelser om gyldighed, indgåelse eller
+virkning af en kontrakt, når der er tale om et barn.
+
+##Artikel 9
+Behandling af særlige kategorier af personoplysninger
+1. Behandling af personoplysninger om race eller etnisk oprindelse, politisk, religiøs eller filosofisk overbevisning eller
+fagforeningsmæssigt tilhørsforhold samt behandling af genetiske data, biometriske data med det formål entydigt at
+identificere en fysisk person, helbredsoplysninger eller oplysninger om en fysisk persons seksuelle forhold eller seksuelle
+orientering er forbudt.
+2. Stk. 1 finder ikke anvendelse, hvis et af følgende forhold gør sig gældende:
+a) Den registrerede har givet udtrykkeligt samtykke til behandling af sådanne personoplysninger til et eller flere
+specifikke formål, medmindre det i EU-retten eller medlemsstaternes nationale ret er fastsat, at det i stk. 1
+omhandlede forbud ikke kan hæves ved den registreredes samtykke.
+b) Behandling er nødvendig for at overholde den dataansvarliges eller den registreredes arbejds-, sundheds- og
+socialretlige forpligtelser og specifikke rettigheder, for så vidt den har hjemmel i EU-retten eller medlemsstaternes
+nationale ret eller en kollektiv overenskomst i medfør af medlemsstaternes nationale ret, som giver fornødne
+garantier for den registreredes grundlæggende rettigheder og interesser.
+c) Behandling er nødvendig for at beskytte den registreredes eller en anden fysisk persons vitale interesser i tilfælde,
+hvor den registrerede fysisk eller juridisk ikke er i stand til at give samtykke.
+d) Behandling foretages af en stiftelse, en sammenslutning eller et andet organ, som ikke arbejder med gevinst for øje,
+og hvis sigte er af politisk, filosofisk, religiøs eller fagforeningsmæssig art, som led i organets legitime aktiviteter og
+med de fornødne garantier, og på betingelse af at behandlingen alene vedrører organets medlemmer, tidligere
+medlemmer eller personer, der på grund af organets formål er i regelmæssig kontakt hermed, og at personoply
+sningerne ikke videregives uden for organet uden den registreredes samtykke.
+e) Behandling vedrører personoplysninger, som tydeligvis er offentliggjort af den registrerede.
+f) Behandling er nødvendig, for at retskrav kan fastlægges, gøres gældende eller forsvares, eller når domstole handler i
+deres egenskab af domstol.
+g) Behandling er nødvendig af hensyn til væsentlige samfundsinteresser på grundlag af EU-retten eller medlemsstaternes
+nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til
+databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende
+rettigheder og interesser.
+h) Behandling er nødvendig med henblik på forebyggende medicin eller arbejdsmedicin til vurdering af arbejdstagerens
+erhvervsevne, medicinsk diagnose, ydelse af social- og sundhedsomsorg eller -behandling eller forvaltning af social-
+og sundhedsomsorg og -tjenester på grundlag af EU-retten eller medlemsstaternes nationale ret eller i henhold til en
+kontrakt med en sundhedsperson og underlagt de betingelser og garantier, der er omhandlet i stk. 3.
+i) Behandling er nødvendig af hensyn til samfundsinteresser på folkesundhedsområdet, f.eks. beskyttelse mod alvorlige
+grænseoverskridende sundhedsrisici eller sikring af høje kvalitets- og sikkerhedsstandarder for sundhedspleje og
+lægemidler eller medicinsk udstyr på grundlag af EU-retten eller medlemsstaternes nationale ret, som fastsætter
+passende og specifikke foranstaltninger til beskyttelse af den registreredes rettigheder og frihedsrettigheder, navnlig
+tavshedspligt.
+4.5.2016L 119/38 Den Europæiske Unions TidendeDA
+j) Behandling er nødvendig til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål
+eller til statistiske formål i overensstemmelse med artikel 89, stk. 1, på grundlag af EU-retten eller medlemsstaternes
+nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til
+databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende
+rettigheder og interesser.
+3. Personoplysninger som omhandlet i stk. 1 kan behandles til de formål, der er omhandlet i stk. 2, litra h), hvis disse
+oplysninger behandles af en fagperson, der har tavshedspligt i henhold til EU-retten eller medlemsstaternes nationale ret
+eller regler, der er fastsat af nationale kompetente organer, eller under en sådan persons ansvar, eller af en anden person,
+der også har tavshedspligt i henhold til EU-retten eller medlemsstaternes nationale ret eller regler, der er fastsat af
+nationale kompetente organer.
+4. Medlemsstaterne kan opretholde eller indføre yderligere betingelser, herunder begrænsninger, for behandling af
+genetiske data, biometriske data eller helbredsoplysninger.
+
+##Artikel 10
+Behandling af personoplysninger vedrørende straffedomme og lovovertrædelser
+Behandling af personoplysninger vedrørende straffedomme og lovovertrædelser eller tilknyttede sikkerhedsforan
+staltninger på grundlag af artikel 6, stk. 1, må kun foretages under kontrol af en offentlig myndighed, eller hvis
+behandling har hjemmel i EU-retten eller medlemsstaternes nationale ret, som giver passende garantier for registreredes
+rettigheder og frihedsrettigheder. Ethvert omfattende register over straffedomme må kun føres under kontrol af en
+offentlig myndighed.
+
+##Artikel 11
+Behandling, der ikke kræver identifikation
+1. Hvis formålene med en dataansvarligs behandling af personoplysninger ikke kræver eller ikke længere kræver, at
+den registrerede kan identificeres af den dataansvarlige, er den dataansvarlige ikke forpligtet til at beholde, indhente eller
+behandle yderligere oplysninger for at kunne identificere den registrerede alene med det formål at overholde denne
+forordning.
+2. Hvis den dataansvarlige i tilfælde, der er omhandlet i denne artikels stk. 1, kan påvise, at vedkommende ikke kan
+identificere den registrerede, underretter den dataansvarlige den registrerede herom, hvis det er muligt. I sådanne tilfælde
+finder artikel 15-20 ikke anvendelse, medmindre den registrerede for at udøve sine rettigheder i henhold til disse artikler
+giver yderligere oplysninger, der gør det muligt at identificere den pågældende.
+#KAPITEL III
+Den registreredes rettigheder
+Afdeling 1
+Gennemsigtighed og nær mere regler
+
+***************************************
+##Artikel 12
+Gennemsigtig oplysning, meddelelser og nærmere regler for udøvelsen af den registreredes
+rettigheder
+1. Den dataansvarlige træffer passende foranstaltninger til at give enhver oplysning som omhandlet i artikel 13 og 14
+og enhver meddelelse i henhold til artikel 15-22 og 34 om behandling til den registrerede i en kortfattet, gennemsigtig,
+letforståelig og lettilgængelig form og i et klart og enkelt sprog, navnlig når oplysninger specifikt er rettet mod et barn.
+Oplysningerne gives skriftligt eller med andre midler, herunder, hvis det er hensigtsmæssigt, elektronisk. Når den
+registrerede anmoder om det, kan oplysningerne gives mundtligt, forudsat at den registreredes identitet godtgøres med
+andre midler.
+4.5.2016 L 119/39Den Europæiske Unions TidendeDA
+2. Den dataansvarlige letter udøvelsen af den registreredes rettigheder i henhold til artikel 15-22. I de tilfælde, der er
+omhandlet i artikel 11, stk. 2, må den dataansvarlige ikke afvise at efterkomme den registreredes anmodning om at
+udøve sine rettigheder i henhold til artikel 15-22, medmindre den dataansvarlige påviser, at vedkommende ikke er i
+stand til at identificere den registrerede.
+3. Den dataansvarlige oplyser uden unødig forsinkelse og i alle tilfælde senest en måned efter modtagelsen af
+anmodningen den registrerede om foranstaltninger, der træffes på baggrund af en anmodning i henhold til artikel 15-22.
+Denne periode kan forlænges med to måneder, hvis det er nødvendigt, under hensyntagen til anmodningernes
+kompleksitet og antal. Den dataansvarlige underretter den registrerede om enhver sådan forlængelse senest en måned
+efter modtagelsen af anmodningen sammen med begrundelsen for forsinkelsen. Hvis den registrerede indgiver en
+anmodning elektronisk, meddeles oplysningerne så vidt muligt elektronisk, medmindre den registrerede anmoder om
+andet.
+4. Hvis den dataansvarlige ikke træffer foranstaltninger i anledning af den registreredes anmodning, underretter den
+dataansvarlige straks og senest en måned efter modtagelsen af anmodningen den registrerede om årsagen hertil og om
+muligheden for at indgive en klage til en tilsynsmyndighed og indbringe sagen for en retsinstans.
+5. Oplysninger, der gives i henhold til artikel 13 og 14, og enhver meddelelse og enhver foranstaltning, der træffes i
+henhold til artikel 15-22 og 34, er gratis. Hvis anmodninger fra en registreret er åbenbart grundløse eller overdrevne,
+især fordi de gentages, kan den dataansvarlige enten:
+a) opkræve et rimeligt gebyr under hensyntagen til de administrative omkostninger ved at give oplysninger eller
+meddelelser eller træffe den ønskede foranstaltning, eller
+b) afvise at efterkomme anmodningen.
+Bevisbyrden for, at anmodningen er åbenbart grundløs eller overdreven, påhviler den dataansvarlige.
+6. Uden at det berører artikel 11 kan den dataansvarlige, hvis der hersker rimelig tvivl om identiteten af den fysiske
+person, der fremsætter en anmodning som omhandlet i artikel 15-21, anmode om yderligere oplysninger, der er
+nødvendige for at bekræfte den registreredes identitet.
+7. De oplysninger, der skal gives til registrerede i henhold til artikel 13 og 14, kan gives sammen med standardiserede
+ikoner for at give et meningsfuldt overblik over den planlagte behandling på en klart synlig, letforståelig og letlæselig
+måde. Hvis ikonerne præsenteres elektronisk, skal de være maskinlæsbare.
+8. Kommissionen tillægges beføjelse til at vedtage delegerede retsakter i overensstemmelse med artikel 92 med
+henblik på at fastlægge de oplysninger, der skal fremgå af ikoner, og procedurerne for tilvejebringelse af standardiserede
+ikoner.
+Afdeling 2
+Oplysning og indsigt i personoplysninger
+
+##Artikel 13
+Oplysningspligt ved indsamling af personoplysninger hos den registrerede
+1. Hvis personoplysninger om en registreret indsamles hos den registrerede, giver den dataansvarlige på det tidspunkt,
+hvor personoplysningerne indsamles, den registrerede alle følgende oplysninger:
+a) identitet på og kontaktoplysninger for den dataansvarlige og dennes eventuelle repræsentant
+b) kontaktoplysninger for en eventuel databeskyttelsesrådgiver
+c) formålene med den behandling, som personoplysningerne skal bruges til, og retsgrundlaget for behandlingen
+4.5.2016L 119/40 Den Europæiske Unions TidendeDA
+d) de legitime interesser, som forfølges af den dataansvarlige eller en tredjemand, hvis behandlingen er baseret på
+artikel 6, stk. 1, litra f)
+e) eventuelle modtagere eller kategorier af modtagere af personoplysningerne
+f) hvor det er relevant, at den dataansvarlige agter at overføre personoplysninger til et tredjeland eller en international
+organisation, og om hvorvidt Kommissionen har truffet afgørelse om tilstrækkeligheden af beskyttelsesniveauet, eller
+i tilfælde af overførsler i henhold til artikel 46 eller 47 eller artikel 49, stk. 1, andet afsnit, litra h), henvisning til de
+fornødne eller passende garantier, og hvordan der kan fås en kopi heraf, eller hvor de er blevet gjort tilgængelige.
+2. Ud over de oplysninger, der er omhandlet i stk. 1, giver den dataansvarlige på det tidspunkt, hvor personoply
+sningerne indsamles, den registrerede følgende yderligere oplysninger, der er nødvendige for at sikre en rimelig og
+gennemsigtig behandling:
+a) det tidsrum, hvor personoplysningerne vil blive opbevaret, eller hvis dette ikke er muligt, de kriterier, der anvendes til
+at fastlægge dette tidsrum
+b) retten til at anmode den dataansvarlige om indsigt i og berigtigelse eller sletning af personoplysninger eller
+begrænsning af behandling vedrørende den registrerede eller til at gøre indsigelse mod behandling samt retten til
+dataportabilitet
+c) når behandling er baseret på artikel 6, stk. 1, litra a), eller artikel 9, stk. 2, litra a), retten til at trække samtykke
+tilbage på ethvert tidspunkt, uden at dette berører lovligheden af behandling, der er baseret på samtykke, inden
+tilbagetrækning heraf
+d) retten til at indgive en klage til en tilsynsmyndighed
+e) om meddelelse af personoplysninger er lovpligtigt eller et krav i henhold til en kontrakt eller et krav, der skal være
+opfyldt for at indgå en kontrakt, samt om den registrerede har pligt til at give personoplysningerne og de eventuelle
+konsekvenser af ikke at give sådanne oplysninger
+f) forekomsten af automatiske afgørelser, herunder profilering, som omhandlet i artikel 22, stk. 1 og 4, og i disse
+tilfælde som minimum meningsfulde oplysninger om logikken heri samt betydningen og de forventede konsekvenser
+af en sådan behandling for den registrerede.
+3. Hvis den dataansvarlige agter at viderebehandle personoplysningerne til et andet formål end det, hvortil de er
+indsamlet, giver den dataansvarlige forud for denne viderebehandling den registrerede oplysninger om dette andet formål
+og andre relevante yderligere oplysninger, jf. stk. 2.
+4. Stk. 1, 2 og 3 finder ikke anvendelse, hvis og i det omfang den registrerede allerede er bekendt med oplysningerne.
+
+##Artikel 14
+Oplysningspligt, hvis personoplysninger ikke er indsamlet hos den registrerede
+1. Hvis personoplysningerne ikke er indsamlet hos den registrerede, giver den dataansvarlige den registrerede følgende
+oplysninger:
+a) identitet på og kontaktoplysninger for den dataansvarlige og dennes eventuelle repræsentant
+b) kontaktoplysninger for en eventuel databeskyttelsesrådgiver
+c) formålene med den behandling, som personoplysningerne skal bruges til, samt retsgrundlaget for behandlingen
+d) de berørte kategorier af personoplysninger
+e) eventuelle modtagere eller kategorier af modtagere af personoplysningerne
+4.5.2016 L 119/41Den Europæiske Unions TidendeDA
+f) hvor det er relevant, at den dataansvarlige agter at overføre personoplysninger til en modtager i et tredjeland eller en
+international organisation, og om hvorvidt Kommissionen har truffet afgørelse om tilstrækkeligheden af beskyttelses
+niveauet, eller i tilfælde af overførsler i henhold til artikel 46 eller 47 eller artikel 49, stk. 1, andet afsnit, litra h),
+henvisning til de fornødne eller passende garantier, og hvordan der kan fås en kopi heraf, eller hvor de er blevet gjort
+tilgængelige.
+2. Ud over de oplysninger, der er omhandlet i stk. 1, giver den dataansvarlige den registrerede følgende oplysninger,
+der er nødvendige for at sikre en rimelig og gennemsigtig behandling for så vidt angår den registrerede:
+a) det tidsrum, hvor personoplysningerne vil blive opbevaret, eller hvis dette ikke er muligt, de kriterier, der anvendes til
+at fastlægge dette tidsrum
+b) de legitime interesser, som forfølges af den dataansvarlige eller en tredjemand, hvis behandlingen er baseret på
+artikel 6, stk. 1, litra f)
+c) retten til at anmode den dataansvarlige om indsigt i og berigtigelse eller sletning af personoplysninger eller
+begrænsning af behandling vedrørende den registrerede og til at gøre indsigelse mod behandling samt retten til
+dataportabilitet
+d) når behandling er baseret på artikel 6, stk. 1, litra a), eller artikel 9, stk. 2, litra a), retten til at trække samtykke
+tilbage på ethvert tidspunkt, uden at dette berører lovligheden af behandling, der er baseret på samtykke, inden
+tilbagetrækning heraf
+e) retten til at indgive en klage til en tilsynsmyndighed
+f) hvilken kilde personoplysningerne hidrører fra, og eventuelt hvorvidt de stammer fra offentligt tilgængelige kilder
+g) forekomsten af automatiske afgørelser, herunder profilering, som omhandlet i artikel 22, stk. 1 og 4, og i disse
+tilfælde som minimum meningsfulde oplysninger om logikken heri samt betydningen og de forventede konsekvenser
+af en sådan behandling for den registrerede.
+3. Den dataansvarlige giver de oplysninger, der er omhandlet i stk. 1 og 2:
+a) inden for en rimelig frist efter indsamlingen af personoplysningerne, men senest inden for en måned under hensyn til
+de specifikke forhold, som personoplysningerne er behandlet under,
+b) hvis personoplysningerne skal bruges til at kommunikere med den registrerede, senest på tidspunktet for den første
+kommunikation med den registrerede, eller
+c) hvis personoplysningerne er bestemt til videregivelse til en anden modtager, senest når personoplysningerne
+videregives første gang.
+4. Hvis den dataansvarlige agter at viderebehandle personoplysningerne til et andet formål end det, hvortil de er
+indsamlet, giver den dataansvarlige forud for denne viderebehandling den registrerede oplysninger om dette andet formål
+samt andre relevante yderligere oplysninger, jf. stk. 2.
+5. Stk. 1-4 finder ikke anvendelse, hvis og i det omfang:
+a) den registrerede allerede er bekendt med oplysningerne
+b) meddelelse af sådanne oplysninger viser sig umulig eller vil kræve en uforholdsmæssigt stor indsats, navnlig i
+forbindelse med behandling til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål
+eller til statistiske formål underlagt de betingelser og garantier, der er omhandlet i artikel 89, stk. 1, eller i det omfang
+den forpligtelse, der er omhandlet i nærværende artikels stk. 1, sandsynligvis vil gøre det umuligt eller i alvorlig grad
+vil hindre opfyldelse af formålene med denne behandling. I sådanne tilfælde træffer den dataansvarlige passende
+foranstaltninger for at beskytte den registreredes rettigheder og frihedsrettigheder samt legitime interesser, herunder
+ved at gøre oplysningerne offentligt tilgængelige
+c) indsamling eller videregivelse udtrykkelig er fastsat i EU-ret eller medlemsstaternes nationale ret, som den
+dataansvarlige er underlagt, og som fastsætter passende foranstaltninger til beskyttelse af den registreredes legitime
+interesser, eller
+d) personoplysningerne skal forblive fortrolige som følge af tavshedspligt i henhold til EU-retten eller medlemsstaternes
+nationale ret, herunder lovbestemt tavshedspligt.
+4.5.2016L 119/42 Den Europæiske Unions TidendeDA
+
+##Artikel 15
+Den registreredes indsigtsret
+1. Den registrerede har ret til at få den dataansvarliges bekræftelse på, om personoplysninger vedrørende den
+pågældende behandles, og i givet fald adgang til personoplysningerne og følgende information:
+a) formålene med behandlingen
+b) de berørte kategorier af personoplysninger
+c) de modtagere eller kategorier af modtagere, som personoplysningerne er eller vil blive videregivet til, navnlig
+modtagere i tredjelande eller internationale organisationer
+d) om muligt det påtænkte tidsrum, hvor personoplysningerne vil blive opbevaret, eller hvis dette ikke er muligt, de
+kriterier, der anvendes til fastlæggelse af dette tidsrum
+e) retten til at anmode den dataansvarlige om berigtigelse eller sletning af personoplysninger eller begrænsning af
+behandling af personoplysninger vedrørende den registrerede eller til at gøre indsigelse mod en sådan behandling
+f) retten til at indgive en klage til en tilsynsmyndighed
+g) enhver tilgængelig information om, hvorfra personoplysningerne stammer, hvis de ikke indsamles hos den
+registrerede
+h) forekomsten af automatiske afgørelser, herunder profilering, som omhandlet i artikel 22, stk. 1 og 4, og som
+minimum meningsfulde oplysninger om logikken heri samt betydningen og de forventede konsekvenser af en sådan
+behandling for den registrerede.
+2. Hvis personoplysningerne overføres til et tredjeland eller en international organisation, har den registrerede ret til
+at blive underrettet om de fornødne garantier i medfør af artikel 46 i forbindelse med overførslen.
+3. Den dataansvarlige udleverer en kopi af de personoplysninger, der behandles. For yderligere kopier, som den
+registrerede anmoder om, kan den dataansvarlige opkræve et rimeligt gebyr baseret på de administrative omkostninger.
+Hvis den registrerede indgiver anmodningen elektronisk, og medmindre den registrerede anmoder om andet, udleveres
+oplysningerne i en almindeligt anvendt elektronisk form.
+4. Retten til at modtage en kopi som omhandlet i stk. 3 må ikke krænke andres rettigheder og frihedsrettigheder.
+Afdeling 3
+Ber igtigelse og sletning
+
+##Artikel 16
+Ret til berigtigelse
+Den registrerede har ret til at få urigtige personoplysninger om sig selv berigtiget af den dataansvarlige uden unødig
+forsinkelse. Den registrerede har under hensyntagen til formålene med behandlingen ret til få fuldstændiggjort
+ufuldstændige personoplysninger, bl.a. ved at fremlægge en supplerende erklæring.
+
+##Artikel 17
+Ret til sletning (»retten til at blive glemt«)
+1. Den registrerede har ret til at få personoplysninger om sig selv slettet af den dataansvarlige uden unødig
+forsinkelse, og den dataansvarlige har pligt til at slette personoplysninger uden unødig forsinkelse, hvis et af følgende
+forhold gør sig gældende:
+a) Personoplysningerne er ikke længere nødvendige til at opfylde de formål, hvortil de blev indsamlet eller på anden vis
+behandlet.
+4.5.2016 L 119/43Den Europæiske Unions TidendeDA
+b) Den registrerede trækker det samtykke, der er grundlaget for behandlingen, jf. artikel 6, stk. 1, litra a), eller artikel 9,
+stk. 2, litra a), tilbage, og der er ikke et andet retsgrundlag for behandlingen.
+c) Den registrerede gør indsigelse mod behandlingen i henhold til artikel 21, stk. 1, og der foreligger ikke legitime
+grunde til behandlingen, som går forud for indsigelsen, eller den registrerede gør indsigelse mod behandlingen i
+medfør af artikel 21, stk. 2.
+d) Personoplysningerne er blevet behandlet ulovligt.
+e) Personoplysningerne skal slettes for at overholde en retlig forpligtelse i EU-retten eller medlemsstaternes nationale ret,
+som den dataansvarlige er underlagt.
+f) Personoplysningerne er blevet indsamlet i forbindelse med udbud af informationssamfundstjenester som omhandlet i
+artikel 8, stk. 1.
+2. Hvis den dataansvarlige har offentliggjort personoplysningerne og i henhold til stk. 1 er forpligtet til at slette
+personoplysningerne, træffer den dataansvarlige under hensyntagen til den teknologi, der er tilgængelig, og
+omkostningerne ved implementeringen, rimelige foranstaltninger, herunder tekniske foranstaltninger, for at underrette de
+dataansvarlige, som behandler personoplysningerne, om, at den registrerede har anmodet disse dataansvarlige om at
+slette alle link til eller kopier eller gengivelser af de pågældende personoplysninger.
+3. Stk. 1 og 2 finder ikke anvendelse, i det omfang denne behandling er nødvendig:
+a) for at udøve retten til ytrings- og informationsfrihed
+b) for at overholde en retlig forpligtelse, der kræver behandling i henhold til EU-retten eller medlemsstaternes nationale
+ret, og som den dataansvarlige er underlagt, eller for at udføre en opgave i samfundets interesse eller som henhører
+under offentlig myndighedsudøvelse, som den dataansvarlige har fået pålagt
+c) af hensyn til samfundsinteresser på folkesundhedsområdet i overensstemmelse med artikel 9, stk. 2, litra h) og i),
+samt artikel 9, stk. 3
+d) til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål eller til statistiske formål i
+overensstemmelse med artikel 89, stk. 1, i det omfang den rettighed, der er omhandlet i stk. 1, sandsynligvis vil gøre
+det umuligt eller i alvorlig grad hindre opfyldelse af denne behandling, eller
+e) for, at retskrav kan fastlægges, gøres gældende eller forsvares.
