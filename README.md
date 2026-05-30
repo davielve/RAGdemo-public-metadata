@@ -1,4 +1,4 @@
-# RAGdemo - Lokalt Juridisk RAG-System med metadata filtrering
+# RAGdemo - Lokalt RAG-System med metadata filtrering
 
 Dette projekt er en komplet, lokal løsning til Retrieval-Augmented Generation (RAG), designet til at analysere og besvare spørgsmål baseret på komplekse lovtekster (som GDPR).
 
