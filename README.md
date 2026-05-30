@@ -4,7 +4,7 @@ Dette projekt er en komplet, lokal løsning til Retrieval-Augmented Generation (
 
 ## 🚀 Funktionalitet
 *   **Lokal AI:** Alt kører lokalt via Docker. Ingen data sendes til skyen.
-*   **Avanceret Ingestion:** Dokumenter splittes semantisk og gemmes med rige metadata (f.eks. artikel-numre og kapitler).
+*   **Avanceret Ingestion:** Dokumenter splittes semantisk og gemmes beriget med metadata (f.eks. artikel-numre og kapitler).
 *   **Smart Retrieval:** Systemet bruger metadata-filtrering til at identificere præcise afsnit. Når en relevant vektor findes, hentes hele det tilhørende afsnit/artikel for at give AI'en fuld kontekst.
 *   **Dansk Sprogstøtte:** Optimeret til dansk jura med modeller, der forstår kontekst og fagudtryk.
 
